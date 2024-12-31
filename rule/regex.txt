@@ -1,4 +1,4 @@
-# Update time: 2024-12-30 20:14:25
+# Update time: 2024-12-31 08:38:04
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -133,16 +133,12 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -165,6 +161,38 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<head>
+<body>
+<!doctype html>
+<!doctype html>
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -205,7 +233,6 @@ analytics-*.aasaam.com
 ||mon*-*.tiktokv.us^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
-||putrr*.com^
 ||cpng.lol.^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
@@ -284,7 +311,6 @@ analytics-*.aasaam.com
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -404,7 +430,6 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
-||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||snowplow-collector.
@@ -422,6 +447,7 @@ analytics-*.aasaam.com
 ||v*.sitecounter.site^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||iad-*.braze.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -452,6 +478,7 @@ analytics-*.aasaam.com
 ||vegaoo*.*^
 ||ads*-adnow.com^
 ||clkservice*.youdao.com^
+||putrr*.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||count*.pconline.com.cn^
@@ -635,6 +662,7 @@ analytics-*.aasaam.com
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
+||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
@@ -643,6 +671,7 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
 ||auth-*.hismarttv.com^
