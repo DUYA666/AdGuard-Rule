@@ -1,4 +1,4 @@
-# Update time: 2025-07-11 20:17:23
+# Update time: 2025-07-12 08:49:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -133,6 +133,9 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
+<head>
+<body>
+<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -161,9 +164,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<head>
-<body>
-<!doctype html>
                 }
     })();
                 console.log(JSON.parse(xhr.responseText))
@@ -185,8 +185,6 @@ body {
 }
 };
 			Buy this domain. | More domains at Seo.Domains
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
     };
 h1 {
         loadFeed(...getLoadFeedArguments());
@@ -199,6 +197,8 @@ h1 {
     Privacy Policy
         return arguments;
             pageOptions
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -383,6 +383,7 @@ h1 {
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
+||track.*.roku.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -472,6 +473,7 @@ h1 {
 ||apple-*.le.com^
 ||imp-*.jampp.com^
 ||mobileanalytics.*.amazonaws.com^
+||tracking.*.miui.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -550,6 +552,7 @@ h1 {
 ||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
+||tracking-*.trnox.com^
 ||hw-p2p*pull*com^
 ||gtlpa*.com^
 ||ali-p2p*pull*com^
@@ -579,6 +582,7 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -607,7 +611,6 @@ analytics-*.aasaam.com
 ||cnt.yeptube.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
-||tracking.*.miui.com^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
@@ -675,7 +678,6 @@ analytics-*.aasaam.com
 ||hostingcloud.*.wasm^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||medialand.
-||track.*.roku.com^
 ||rotaban.
 ||install*.zonastat.com^
 ||rusrestbest.
@@ -722,7 +724,6 @@ analytics-*.aasaam.com
 ||thegreatesthits.
 ||adserver1.
 ||ad*.mellesleg.hu^
-||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||backstory.ebay.
 ||adx-*.dbankcloud.
@@ -765,6 +766,5 @@ rgmechanicsgames.com*VPN.exe
 ||ads.livetv*.me^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 ||cintent.streanplay.
 Banner468x60
