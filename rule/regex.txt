@@ -1,4 +1,4 @@
-# Update time: 2025-11-14 20:18:48
+# Update time: 2025-11-15 08:43:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -164,58 +164,39 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-    })();
-            document.getElementById('loading')?.remove();
-<script>
-    <noscript>
-    xhr.send();
-        } else {
-            } else {
-	}
-h1 {
-iframe {
-        }
-        document.getElementById('content')?.remove();
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-        function handleRTBFailure() {
-                console.log(JSON.parse(xhr.responseText))
-<style>
-    (function () {
-            console.log('Failure callback complete.');
-    }
-    <style>
-                    return;
-    };
-<div>
-                return;
-body {
-            handleRTBFailure();
-                console.log('There was a problem with the request.');
-            }
-}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+    })();
+  console.log('Callback complete.');
+        iframe {
+<script>
+    <noscript>
+            return null;
+            console.log(data);
+        } else {
+	}
+h1 {
+    document.getElementById('content').remove();
+        }
+    });
+            window.onRTBFailure();
+};
+			Buy this domain. | More domains at Seo.Domains
     })
         h1 {
         p {
         footer {
-  console.log('Callback complete.');
+<style>
         body {
-        iframe {
+    (function () {
+    }
         return JSON.parse(await response.text());
         window.onRTBFailure();
-            return null;
-            console.log(data);
+<div>
     <script>
         console.error(error);
-    document.getElementById('content').remove();
-    });
-            window.onRTBFailure();
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
+body {
+}
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -273,6 +254,9 @@ body {
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -347,7 +331,7 @@ body {
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||ecommerce-events*.adscale.com^
+||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -462,6 +446,7 @@ body {
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
+||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -600,13 +585,12 @@ analytics-*.aasaam.com
 ||rb*.design.ru^
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
+||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
-||tracking-v*.a.run.app^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -676,7 +660,6 @@ analytics-*.aasaam.com
 ||cnt.hd21.
 ||ulog.*.ksapisrv.com^
 ||servo-report.dvdfab.
-||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -757,6 +740,7 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 Banner468x60
