@@ -1,4 +1,4 @@
-# Update time: 2026-03-13 09:00:27
+# Update time: 2026-03-13 20:29:34
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -162,7 +162,6 @@ try {
 ||events-*.op.hicloud.com^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
-||ifengad.*.ifeng.com^
 ||v*-ad.video.yximgs.com^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||da.hornbach.*^
@@ -234,6 +233,7 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -289,6 +289,7 @@ analytics-*.aasaam.com
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
+||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -335,6 +336,7 @@ analytics-*.aasaam.com
 ||ulog-*.ksapisrv.com^
 ||rum*.cdnvideo.ru^
 ||38.33.15.*.gif
+||mssdk*.zijieapi.com^
 ||adservice.google.co.*
 ||23.109.82.
 ||u*.takru.com^
@@ -367,6 +369,7 @@ analytics-*.aasaam.com
 ||srmdata-*.com^
 ||use-trk*.bluevoox.com^
 ||adimg*.search.naver.net^
+||log*.zijieapi.com^
 ||icq-window.
 ||icqwindow.
 ||st-n.ads*-adnow.com^
@@ -374,6 +377,7 @@ analytics-*.aasaam.com
 ||ulog*.kwai-pro.com^
 ||collector.hamsterix.
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
+||matomo-demo-*.amazonaws.com^
 ||me9ddf.moebelix.
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -406,6 +410,7 @@ analytics-*.aasaam.com
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
 ||popunder.
+||livetracker.*.pangea-cms.com^
 ||stat.tiara.
 ||fpb1.chinacar.
 ||rotator.
@@ -505,13 +510,13 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||a*.smlog.co.kr^
 ||mcs-*.tiktok.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
 ||track.*.roku.com^
-||install*.zonastat.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -599,7 +604,6 @@ analytics-*.aasaam.com
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||qn-*pcdn.cdn.huya.com^
-||mssdk*.zijieapi.com^
 ||zazgiyoh*.world^
 ||log-v*-boot.capcutapi.com^
 ||zazgbqg*.xyz^
@@ -646,7 +650,6 @@ analytics-*.aasaam.com
 ||ads*-normal*.zijieapi.com^
 ||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
-||log*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||sam*.baby-kingdom.com^
@@ -660,7 +663,6 @@ analytics-*.aasaam.com
 ||cdn-*.gravityfield.ai^
 ||log*-misc-lq.amemv.com^
 ||log*.vietnamplus.vn^
-||matomo-demo-*.amazonaws.com^
 ||hn-ping*.hashnode.com^
 ||sdk.fra-*.braze.eu^
 ||mcdp-*.outbrain.com^
@@ -719,7 +721,6 @@ analytics-*.aasaam.com
 ||ad.*.360.cn^
 ||spa-tracker*.spapi.io^
 ||gcw*.2liang.cn^
-||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||quangcao-*.epicdn.me^
 ||aem-collector-*.kgslb.com^
@@ -742,5 +743,4 @@ rgmechanicsgames.com*VPN.exe
 ||ads.livetv*.me^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
