@@ -1,4 +1,4 @@
-# Update time: 2026-03-21 20:21:36
+# Update time: 2026-03-22 09:05:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -145,26 +145,6 @@ function redirect(suffix) {
 try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||marketplace-*.hyprmx.com^
-||adx-*.dbankcloud.
-||prebid-cache*.ifunny.co^
-||mediate-ios-*.hyprmx.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||us.*.qwadro.com^
-||mob*.novanewsapp.com^
-||tnc16-*.byteoversea.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
-||production-adserver-*.amazonaws.com^
-||get*bannerads-6egeg2u34q-du.a.run.app^
-||mobiadvert*.livesportmedia.eu^
-||iad-*.appboy.com^
-||jtbo*.nqxvevk.cn^
-||events-*.op.hicloud.com^
-||iad-*.braze.com^
-||ms*.applvn.com^
-||ifengad.*.ifeng.com^
-||v*-ad.video.yximgs.com^
-||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -235,11 +215,11 @@ analytics-*.aasaam.com
 ||adservice.google.
 ||counter*.stat.ovh^
 |load.sst.
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||prebid-*.rubiconproject.com^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -276,6 +256,7 @@ analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||sgtm.fairmont.
+||marketplace-*.hyprmx.com^
 ||analytics.streamfab.
 ||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
@@ -299,6 +280,7 @@ analytics-*.aasaam.com
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
+||mob*.novanewsapp.com^
 ||ubt.tracking.shopee.
 ||as*.prog.hu^
 ||cnt.tubeon.
@@ -313,7 +295,7 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||ad-host-backup-*.aliyuncs.com^
+||production-adserver-*.amazonaws.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -323,7 +305,10 @@ analytics-*.aasaam.com
 ||countly-
 ||countly.
 ||backstory.ebay.
+||adx-*.dbankcloud.
 ||pop-parad.
+||mediate-ios-*.hyprmx.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mediacontext.
 ||videoclick.
 ||broredir*s.site^
@@ -340,6 +325,7 @@ analytics-*.aasaam.com
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
 ||ad*.on.cc^
+||v*-ad.video.yximgs.com^
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
@@ -349,6 +335,7 @@ analytics-*.aasaam.com
 ||adservice.google.co.*
 ||23.109.82.
 ||u*.takru.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
@@ -398,6 +385,7 @@ analytics-*.aasaam.com
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||rotaban.
 ||tw-726620180914.*.run.app^
+||prebid-cache*.ifunny.co^
 ||cnt.proporn.
 ||popuptraf.
 ||ulog*.kwaipros.com^
@@ -406,21 +394,22 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||minitds-*.info^
+||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ya*.dwstatic.com^
+||ms*.applvn.com^
 ||thegreatesthits.
-||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
+||mobiadvert*.livesportmedia.eu^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
@@ -513,6 +502,7 @@ analytics-*.aasaam.com
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
@@ -522,6 +512,7 @@ analytics-*.aasaam.com
 ||ulog*.*^
 ||a*.smlog.co.kr^
 ||mcs-*.tiktok.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||p26.gejulm*.com^
 ||adservice.google.*^
@@ -618,6 +609,7 @@ analytics-*.aasaam.com
 ||log-v*-boot.capcutapi.com^
 ||zazgbqg*.xyz^
 ||browser-intake-*-datadoghq.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||collector-*.px-cdn.net^
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
@@ -700,6 +692,7 @@ analytics-*.aasaam.com
 ||aj3*.bid^
 ||host*.rvshare.com^
 ||log*-*.tiktokv.com^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -716,13 +709,16 @@ analytics-*.aasaam.com
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||iad-*.appboy.com^
 ||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
+||tracking-*.trnox.com^
 ||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||gbxreport-*.wf.com^
@@ -738,10 +734,14 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||tnc16-*.byteoversea.com^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||ads.livetv*.me^
 ||142.91.159.
+||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
