@@ -1,4 +1,4 @@
-# Update time: 2026-04-15 09:15:01
+# Update time: 2026-04-15 20:54:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -5103,6 +5103,7 @@
 0.0.0.0 serv.ad-rotator.com
 0.0.0.0 uelbdc74fn.s.ad6media.fr
 0.0.0.0 www.biz-offer.com
+0.0.0.0 www.princessuppies.com
 0.0.0.0 www35t.glam.com
 0.0.0.0 newscurrent.info
 0.0.0.0 ad12digital.checkm8.com
@@ -9176,6 +9177,7 @@
 0.0.0.0 syncaccess.net
 0.0.0.0 img.img-taboola.com
 0.0.0.0 as.sexad.net
+0.0.0.0 www.softwarebeginner.com
 0.0.0.0 myao.adocean.pl
 0.0.0.0 ad.dc2.adtech.de
 0.0.0.0 nickde.oewabox.at
@@ -10913,6 +10915,7 @@
 0.0.0.0 your.dailytopdealz.com
 0.0.0.0 effectivespeech.net
 0.0.0.0 strategy.lmobi.net
+0.0.0.0 www.stricklyhouses.com
 0.0.0.0 pc-gizmos-ssl.com
 0.0.0.0 t.extreme-dm.com
 0.0.0.0 ineediscounts.com
@@ -11452,6 +11455,7 @@
 0.0.0.0 wedleaunocomp.work
 0.0.0.0 coldpacific.com
 0.0.0.0 pclt.net
+0.0.0.0 www.sunglassesfor.com
 0.0.0.0 adgardener.com
 0.0.0.0 adserv005.adtech.fr
 0.0.0.0 yang.hitbox.com
