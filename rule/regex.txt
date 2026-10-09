@@ -1,4 +1,4 @@
-# Update time: 2026-10-09 11:19:27
+# Update time: 2026-10-10 01:37:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -136,10 +136,6 @@ advertisers.js|
 ||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||ifengad.*.ifeng.com^
-||get*bannerads-6egeg2u34q-du.a.run.app^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -200,6 +196,8 @@ advertisers.js|
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||us.*.qwadro.com^
+||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -214,6 +212,7 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -224,8 +223,6 @@ advertisers.js|
 ||cas.*.criteo.com^
 ||n*adserv.com^
 ||zbc6hy*.live^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
 ||mobileanalytics.*.amazonaws.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
@@ -263,6 +260,7 @@ advertisers.js|
 ||ulog*.*^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -325,7 +323,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
@@ -336,9 +333,9 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||log*-normal-*.tiktokv.us^
 ||allsportsflix.
+||prebid-*.rubiconproject.com^
 ||lt*.tritondigital.com^
 ||log*-normal-*.tiktokv.com
-||107.167.22.*.gif
 ||eflbundles.*.com.tr^
 ||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
@@ -359,7 +356,6 @@ analytics-*.aasaam.com
 ||iptracker-lb-*.amazonaws.com^
 ||sax*.sina.
 ||putrr*.com^
-||67.21.92.*.gif
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -384,7 +380,6 @@ analytics-*.aasaam.com
 ||goodadvert.
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
-||107.167.16.*.gif
 ||log*.byteoversea.com^
 ||mon*-misc.fqnovel.com^
 ||logs*.smithsonian.museum^
@@ -438,7 +433,6 @@ analytics-*.aasaam.com
 ||stats.*.ronghub.com^
 ||v*-ad.video.yximgs.com^
 ||ulog-*.ksapisrv.com^
-||38.33.15.*.gif
 ||mssdk*.zijieapi.com^
 ||log-v*-boot.capcutapi.com^
 ||browser-intake-*-datadoghq.com^
@@ -531,7 +525,9 @@ analytics-*.aasaam.com
 ||adservice.google.
 ||mcs-normal-*.capcutapi.com^
 ||trace-*.free-reels.com^
+||counter*.stat.ovh^
 ||host*.carl-ras.dk^
+||ads.livetv*.me^
 ||iphone-caviar.ru*entranceId
 ||hw-sh-pcdn-*.biliapi.net^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
@@ -629,7 +625,7 @@ analytics-*.aasaam.com
 ||tnc16-*.byteoversea.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
-||121.204.246.*.gif
+||buzzer.xhamster*
 ||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||flurry.agentportal-*.yahoodns.net^
@@ -717,6 +713,7 @@ analytics-*.aasaam.com
 ||logs-*.rebxgame.com^
 ||stats*.videonow.ru^
 ||hba*.hepsiburada.com^
+||reachableads-av.*.amazonaws.com^
 ||mon-va*.capcutapi.com^
 ||q*-publick.club^
 ||collect-v*.51.la^
@@ -740,20 +737,15 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||touch.yesim.
 ||v*.sitecounter.site^
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||158.247.208.
 ||23.109.82.
+||142.91.159.
+|167.206.10.148^
 ||fapnado.*.php|
+||23.109.87.
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||158.247.208.
-||ads.livetv*.me^
-||142.91.159.
-||buzzer.xhamster*
-|167.206.10.148^
-||23.109.87.
-||prebid-*.rubiconproject.com^
 Banner468x60
