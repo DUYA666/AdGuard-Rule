@@ -1,4 +1,4 @@
-# Update time: 2026-11-01 10:50:43
+# Update time: 2026-11-02 01:18:13
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,6 +64,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -300,6 +300,7 @@ advertisers.js|
 ||aj1*.xyz^
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
+||ya*.dwstatic.com^
 ||collector-*.px-cloud.net^
 ||bjsvp*.space^
 ||log-*.previewnetworks.com^
@@ -720,7 +721,6 @@ analytics-*.aasaam.com
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||analytics*.carambo.la^
-||ya*.dwstatic.com^
 ||thegreatesthits.
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||sgtm.wimdu.
