@@ -1,4 +1,4 @@
-# Update time: 2026-11-03 04:56:16
+# Update time: 2026-11-03 12:15:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,7 +75,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 ||adx.
 ||adx-
 ||adsfs.
@@ -606,6 +606,7 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.hicloud.com^
 ||mon-v*-boot.capcutapi.com^
 ||letssex.
+||ad-host-backup-*.aliyuncs.com^
 ||sonar*.xy.fbcdn.net^
 ||ad*.nexage.com^
 ||analytics.ahrefs.
@@ -739,15 +740,14 @@ analytics-*.aasaam.com
 ||touch.yesim.
 ||v*.sitecounter.site^
 ||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-||23.109.82.
-||ad-host-backup-*.aliyuncs.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
 ||158.247.208.
+||23.109.82.
 ||142.91.159.
 |167.206.10.148^
+||fapnado.*.php|
 ||23.109.87.
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
 Banner468x60
